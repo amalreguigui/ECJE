@@ -10,8 +10,6 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
-amal
-
 const CODE_LENGTH = 4;
 
 // Shield icon built with pure React Native Views
